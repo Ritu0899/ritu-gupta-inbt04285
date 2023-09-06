@@ -9,3 +9,6 @@ Major Project - Dev detective project
 
 # ##task1
 https://ritu-gupta-portfolio-website.netlify.app/[](url)
+
+## ##TASK2
+https://ritu-gupta-randomgifstarter.netlify.app
